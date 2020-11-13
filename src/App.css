@@ -1,38 +1,129 @@
-.App {
-  text-align: center;
+.list{
+    list-style-type: none;
+    
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.list li {
+    display: flex;
+    position: relative;
+    margin: 20px 0;
+    
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.main{
+
+    margin-left: 30px;
+    display: flex;
+    position: relative;
+    
+}
+
+.Pname{
+    margin-top: 60px;
+    padding-right: 80px;
+    text-decoration-line: none;
+    
+}
+
+.Pname h2{
+    margin: 0px;
+    }
+
+.Pname h3{
+margin: 0px;
+}
+
+
+.mainTotal{
+   width: 100%;
+}
+
+.total{
+    background-color: black;
+    width: 40%;
+    position: relative;
+    left: 30%;
+    height: 350px;
+    border-radius: 30px;
+    color: white;
+    text-align: center;
+    top: 50px;
+}
+
+.totaldiv{
+    position: relative;
+    top: 90px;
+}
+
+.totalItem h3,.totalItem h4 {
+    
+      margin: 5px;
+}
+
+.totalAmount h3, .totalAmount h4{
+margin: 5px;
+}
+
+
+.totalBtn{
+    position: relative;
+}
+
+.pDetailPic{
+    height:400px !important;
+     width:650px !important;
+     margin-left:25px;
+    }
+
+.cartPic{
+    height:180px !important;
+     width:320px !important;
+     margin-left:25px !important;
+}
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+      .pDetailPic{
+        height:300px !important;
+         width:470px !important;
+         margin-left:6px;
+        }
+
+        .cartPic{
+            height:160px !important;
+             width:240px !important;
+             margin-left:-35px !important;
+        }
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 960px) {
+      .pDetailPic{
+        height:300px !important;
+         width:470px !important;
+         margin-left:12px;
+        }
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .pDetailPic{
+    height:350px !important;
+     width:600px !important;
+     margin-left:20px;
+    }
+
+
+}
+
+@media only screen and (min-width: 1350px) {
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
