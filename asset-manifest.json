@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Shoes-store-in-react/static/css/main.4bf9e8e8.chunk.css",
+    "main.js": "/Shoes-store-in-react/static/js/main.9635e604.chunk.js",
+    "main.js.map": "/Shoes-store-in-react/static/js/main.9635e604.chunk.js.map",
+    "runtime-main.js": "/Shoes-store-in-react/static/js/runtime-main.5c24040d.js",
+    "runtime-main.js.map": "/Shoes-store-in-react/static/js/runtime-main.5c24040d.js.map",
+    "static/js/2.2e111db7.chunk.js": "/Shoes-store-in-react/static/js/2.2e111db7.chunk.js",
+    "static/js/2.2e111db7.chunk.js.map": "/Shoes-store-in-react/static/js/2.2e111db7.chunk.js.map",
+    "static/js/3.c076124f.chunk.js": "/Shoes-store-in-react/static/js/3.c076124f.chunk.js",
+    "static/js/3.c076124f.chunk.js.map": "/Shoes-store-in-react/static/js/3.c076124f.chunk.js.map",
+    "index.html": "/Shoes-store-in-react/index.html",
+    "static/css/main.4bf9e8e8.chunk.css.map": "/Shoes-store-in-react/static/css/main.4bf9e8e8.chunk.css.map",
+    "static/js/2.2e111db7.chunk.js.LICENSE.txt": "/Shoes-store-in-react/static/js/2.2e111db7.chunk.js.LICENSE.txt",
+    "static/media/dialog.ec3d3e53.jpg": "/Shoes-store-in-react/static/media/dialog.ec3d3e53.jpg",
+    "static/media/logo.17cdf20a.png": "/Shoes-store-in-react/static/media/logo.17cdf20a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c24040d.js",
+    "static/js/2.2e111db7.chunk.js",
+    "static/css/main.4bf9e8e8.chunk.css",
+    "static/js/main.9635e604.chunk.js"
+  ]
+}
